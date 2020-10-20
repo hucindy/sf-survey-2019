@@ -35,7 +35,7 @@ The San Francisco City Survey is conducted every two years to assess city reside
 
 -   Overall rating: 4.06/5 (B+)
 -   Over 75% were satisfied/very satisfied with the overall quality of city parks.
--   75% visit the city parks at least once a week or at least once a month in 2019.
+-   75% have visited the city parks at least once a week or at least once a month in 2019.
 -   31% have participated in a recreation and Parks Department program or used a recreation center.
 -   Subratings are mostly positive with high percentages of good/excellent ratings.
 
@@ -44,7 +44,7 @@ The San Francisco City Survey is conducted every two years to assess city reside
 -   Overall rating: 4.40/5 (A-)
 -   52% rated excellent on the overall quality of city libraries.
 -   A majority have never used the City's main, branch, or online library in 2019.
--   More frequent users of city libraries use the online and branch libraries more than the main library.
+-   More frequent users of city libraries have used the online and branch libraries more than the main library.
 -   All subratings had over 75% of good/excellent ratings.
 
 **Transportation**
@@ -52,7 +52,7 @@ The San Francisco City Survey is conducted every two years to assess city reside
 -   Overall rating: 3.19/5 (C+)
 -   Walking was the most used, while biking was the least used.
 -   86% have used Muni in 2019.
--   Courtesy of Muni drivers rated highest, while managing crowding rated lowest.
+-   Ratings on courtesy of Muni drivers were the highest, while managing crowding were the lowest.
 
 **Public Safety**
 
@@ -67,20 +67,20 @@ The San Francisco City Survey is conducted every two years to assess city reside
 **Schools**
 
 -   Overall rating: 4.26/5 (B+)
--   The average rating of SF private schools is higher than SF public schools by 0.44.
+-   The average rating of SF private schools is higher than SF public schools by 0.44 points.
 
 **Rating Differences**
 
--   African Amercians reported the lowest percentage of good/excellent ratings on the overall local government performance, infrastructure, parks, . When restricted to those living with children, they reported 96% of good/excellent ratings on city libraries.
--   Whites reported the highest proportion of good/excellent ratings on city parks, 311 experience.
--   Hispanics reported the highest percentage of good/excellent ratings on city government performance, infrastructure, libraries, Muni, but reported the lowest percentage of good/excellent ratings on SF schools.
+-   African Amercians reported the lowest percentage of good/excellent ratings on the overall local government performance, infrastructure, and parks. When restricted to those living with children, they reported 96% of good/excellent ratings on city libraries.
+-   Whites reported the highest percentage of good/excellent ratings on city parks, and 311 experience.
+-   Hispanics reported the highest percentage of good/excellent ratings on local government performance, infrastructure, libraries, and Muni, but reported the lowest percentage of good/excellent ratings on SF schools.
 -   Females from all racial/ethnic groups feel less safe walking alone at night than males. Mixed ethnicity women and Hispanic women feel the least safe walking alone at night.
 -   Frequent users of city parks, the branch and online library, and Muni tend to give more good/excellent ratings than infrequent users.
 
 **2019 City Issues and Impression**
 
 -   Top issues: general homelessness, combatting homelessness, increasing housing cost, lack of affordable housing, open drug dealing/using.
--   Most feel that homelessness, street and sidewalk cleanliness, and public safety has gotten worse in the last 2 years.
+-   Most feel that homelessness, street and sidewalk cleanliness, and public safety have gotten worse in the last 2 years.
 -   75% feel that homelessness has gotten worse since 2017.
 
 **Moving Out of SF**
@@ -93,20 +93,20 @@ The San Francisco City Survey is conducted every two years to assess city reside
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
--   We see that a large number of respondants is from the Exelsior, Mission, and Oceanview neighborhoods.
+-   A large number of respondants is from the Exelsior, Mission, and Oceanview neighborhoods.
 
 #### Gender
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 -   There are 8.6% more male respondents than female respondents.
--   1.2% identifies as neither female nor male.
+-   1.2% of respondents identified as neither female nor male.
 
 #### Age
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
--   Mpst (23.6%) responents were ages 35-44.
+-   Most (23.6%) responents were ages 35-44.
 -   17% of respondents were ages 65 and over, about 4 times more than those of ages 18-24.
 
 #### Age by Gender
@@ -119,13 +119,13 @@ The San Francisco City Survey is conducted every two years to assess city reside
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
--   11.9% of respondents identify as LGBTQ+.
+-   11.9% of respondents identified as LGBTQ+.
 
 #### Race/Ethnicity
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-8-1.png)
 
--   The majority of survey respondents are white, making up a majority (51.4%) of respondents.Â 
+-   The majority of survey respondents are white, making up a majority (51.4%) of respondents. 
 -   The sample size of American Indian/Alaska Native is extremely small.
 
 #### Household Income
@@ -174,8 +174,8 @@ The San Francisco City Survey is conducted every two years to assess city reside
 ![](sf19_files/figure-markdown_github/unnamed-chunk-16-1.png)
 
 -   The top 3 highest average ratings are: Libraries, Schools, and Recreation and Parks.
--   Libraries have the highest average rating of 4.40/5 (A-).
--   Muni have the lowest average rating of 3.19/5 (C+).
+-   Libraries received the highest average rating of 4.40/5 (A-).
+-   Muni received the lowest average rating of 3.19/5 (C+).
 
 ### Government Performance
 
@@ -241,7 +241,7 @@ Next, we analyze the subratings for the City's infrastructure.
 
 -   Frequent users of the City's parks tend to give more good/excellent ratings on the overall park system than nonfrequent users.
 -   There is only a slight 1% difference between the proportion of good/excellent overall park system ratings of frequent users of the City's parks. This difference is also 1% between those who visit once or twice a year and several times a year.
--   63% of respondents who never visited the City's parks in 2019 gave a rating of good/excellent on the overall park system.
+-   63% of respondents who have never visited the City's parks in 2019 gave a rating of good/excellent on the overall park system.
 
 #### Differences by Status of Livings with Children and Race/Ethnicity
 
@@ -253,7 +253,7 @@ Next, we analyze the subratings for the City's infrastructure.
 ![](sf19_files/figure-markdown_github/unnamed-chunk-27-1.png)
 
 -   The ratings for parks are mostly positive with high proportions of 4's and 5's in all areas.
--   Cleanliness of parks has the lowest proportion of high ratings.
+-   Cleanliness of parks had the lowest proportion of high ratings.
 -   It seems that a majority of residents are satisfied/very satisfied with the overall quality of the City's park system.
 
 #### Recreation Program and Recreation Center
@@ -273,8 +273,8 @@ Next, we analyze the subratings for the City's infrastructure.
 ![](sf19_files/figure-markdown_github/unnamed-chunk-30-1.png)
 
 -   A majority of respondents rated 5(Excellent) on the overall quality of the City's library system.
--   Less than 10% of respondents gave ratings of 1(Failing), 2(Poor), 3(Average).Â 
--   Ratings for the City's overall library system is the highest by far.
+-   Less than 10% of respondents combined gave ratings of 1(Failing), 2(Poor), 3(Average).
+-   Ratings for the City's overall library system is the highest so far.
 
 #### How often do residents access libraries and their services?
 
@@ -282,7 +282,7 @@ Next, we analyze the subratings for the City's infrastructure.
 
 -   During the past 12 months in 2019, a majority of respondents have never used the City's main, branch or online library.
 -   The ratio of "Never" to "At least once a week is" about 9:1.
--   Those who visit the library at least once a month/week uses the City's branch and online library more than the main library.
+-   Those who visit the library at least once a month/week used the City's branch and online library more than the main library.
 
 #### Rating Differences by Library Usage
 
@@ -304,7 +304,7 @@ Next, we analyze the subratings for the City's infrastructure.
 ![](sf19_files/figure-markdown_github/unnamed-chunk-34-1.png)
 
 -   Over 75% of ratings are good/excellent in all areas.
--   It seems that a majority of residents are satisfied/very satisfied with the overall quality of the City's library system.
+-   It seems that a majority of residents were satisfied/very satisfied with the overall quality of the City's library system.
 
 ### Transportation
 
@@ -335,7 +335,7 @@ The following is a mosaic plot of the frequency of respondents, categorized by m
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-38-1.png)
 
--   Frequent users of Muni and online tend to give more good/excellent ratings on the overall quality of the Muni system than nonfrequent users.
+-   Frequent users of Muni tend to give more good/excellent ratings on the overall quality of the Muni system than nonfrequent users.
 -   Those who used the Muni 3-6 days/week contributed to the highest proportion of good/excellent Muni ratings.
 
 #### Differences by Muni User Status and Race/Ethnicity
@@ -377,15 +377,14 @@ The following is a mosaic plot of the frequency of respondents, categorized by m
 -   Hispanic women report the lowest proportion of safety walking alone in their neighborhood during the day.
 -   Almost 90% of Whites and Other females reported high ratings of safety during the day.
 -   A lower proportion of Asian, Black, and Hispanic women report feeling safe/very safe during the day compared to males of these groups.
--   There appears to be very little difference in the proportion of high ratings of safety during the day between White males and White females.
+-   There is very little difference in the proportion of high ratings of safety during the day between White males and White females.
 
 #### Night
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-44-1.png)
 
 -   People of mixed ethnicity reported the lowest proportion of high ratings of safety walking alone in their neighborhood at night.
--   2 out of 4 American Indians reported high ratings of safety at night.
--   Females have a lower proportion of high ratings of safety at night than males, except for American Indians.
+-   Females have a lower proportion of high ratings of safety at night than males.
 
 #### Which areas have higher public safety ratings?
 
@@ -450,7 +449,7 @@ Next, I analyzed the many issues facing the City.
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-55-1.png)![](sf19_files/figure-markdown_github/unnamed-chunk-55-2.png)![](sf19_files/figure-markdown_github/unnamed-chunk-55-3.png)
 
--   Most respondents feel that homelessness, street and sidewalk cleanliness, and public safety has gotten worse in the last 2 years.
+-   Most respondents feel that homelessness, street and sidewalk cleanliness, and public safety have gotten worse in the last 2 years.
 -   Homelessness remains a major problem.
 
 ### Likelihood of Moving Out of SF In the Next 3 Years
