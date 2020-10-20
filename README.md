@@ -212,9 +212,8 @@ Next, we analyze the subratings for the City's infrastructure.
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-21-1.png)
 
-We find:
-\* Both quality of water services and reliability of sewer services received over 75% of good/excellent ratings.
-\* Cleanliness of streets and sidewalks received the largest amount of 1's.
+-   Both quality of water services and reliability of sewer services received over 75% of good/excellent ratings.
+-   Cleanliness of streets and sidewalks received the largest amount of 1's.
 
 #### Which areas have the dirtiest streets and sidewalks?
 
@@ -287,10 +286,6 @@ We find:
 
 #### Rating Differences by Library Usage
 
-    ## `summarise()` regrouping output by 'grade' (override with `.groups` argument)
-    ## `summarise()` regrouping output by 'grade' (override with `.groups` argument)
-    ## `summarise()` regrouping output by 'grade' (override with `.groups` argument)
-
 ![](sf19_files/figure-markdown_github/unnamed-chunk-32-1.png)
 
 -   Frequent users of the branch library and online library services tend to give more good/excellent ratings on the overall library system than nonfrequent users.
@@ -317,14 +312,9 @@ We find:
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-35-1.png)
 
-    ## # A tibble: 1 x 1
-    ##   `mean(muni_rate)`
-    ##               <dbl>
-    ## 1              3.19
-
 -   Most (37.4%) respondents rated 3(Average) on the overall quality of Muni.
 -   32.6% of respondents rated 4(Good).
--   
+-   Muni ratings received the highest percentage of 1's (Failing) so far.
 
 #### Frequency of Transportation
 
@@ -369,7 +359,7 @@ The following is a mosaic plot of the frequency of respondents, categorized by m
 ![](sf19_files/figure-markdown_github/unnamed-chunk-41-1.png)
 
 -   Ratings for public safety were mostly between 3.5 and 5.
--   Respondents generally feel safe to very safe walking alone in their neighborhood.
+-   Respondents generally feel safe/very safe walking alone in their neighborhood.
 
 #### Public Safety Subratings
 
@@ -399,12 +389,6 @@ The following is a mosaic plot of the frequency of respondents, categorized by m
 
 #### Which areas have higher public safety ratings?
 
-    ## Warning in self$bind(): The following regions were missing and are being set to
-    ## NA: 94129, 94130, 94111, 94158, 94105, 94104
-
-    ## Scale for 'fill' is already present. Adding another scale for 'fill', which
-    ## will replace the existing scale.
-
 ![](sf19_files/figure-markdown_github/unnamed-chunk-45-1.png)
 
 -   Respondents felt most safe walking alone in Twin Peaks West and Sunset neighborhoods at night.
@@ -423,8 +407,6 @@ The following is a mosaic plot of the frequency of respondents, categorized by m
 -   A high percentage (74.5%) of respondents had a good/excellent experience using 311 in 2019.
 
 #### Differences by Race/Ethnicity
-
-    ## `summarise()` ungrouping output (override with `.groups` argument)
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-48-1.png)
 
@@ -446,8 +428,6 @@ The following is a mosaic plot of the frequency of respondents, categorized by m
 -   SF private schools had a higher average rating than SF public schools by 0.44 points.
 
 #### Differences by Race/Ethnicity
-
-    ## `summarise()` ungrouping output (override with `.groups` argument)
 
 ![](sf19_files/figure-markdown_github/unnamed-chunk-51-1.png)
 
